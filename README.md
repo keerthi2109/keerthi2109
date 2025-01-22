@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Keerthi Maryada, undergrad from NIT Rourkela, ECE Dept, pursuing 3rd year of my B.Tech.
-- 👀 I’m interested in competitive programming and data analysis!
-- 🌱 I’m currently brushing up my skills in C++ along side with DSA concepts. Diversified my knowledge in python too!
-- 💞️ I’m looking to collaborate on team works as on projects basing data analytics, working on SQL and puzzling coding challenges ;)
+- 👋 Hi, I’m Keerthi Maryada, graduate from NIT Rourkela, ECE Dept.
+- 👀 I’m interested in application development, competitive programming and playing with data.
+- 🌱 I’m currently growing my diverse knowledge over various programming languages like C++, Java, vue.js.
+- 💞️ I’m looking to collaborate on valuable economic and social driving projects which will add greater value adn allows me to contribute to this fast-driven technology world ;)
 - 📫 How to reach me ----> connect to me on my LinkedIn id - Keerthi Reddy Maryada 
 
 <!---
